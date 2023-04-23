@@ -17,6 +17,7 @@ schneier_security_rss = 'https://www.schneier.com/feed/atom/'
 techcrunch_rss = 'https://techcrunch.com/feed/'
 thn_security_rss = 'https://feeds.feedburner.com/TheHackersNews'
 theverge_rss = 'https://www.theverge.com/rss/index.xml'
+nvd_rss = 'https://nvd.nist.gov/feeds/xml/cve/misc/nvd-rss.xml'
 
 
 #parses the rss url
